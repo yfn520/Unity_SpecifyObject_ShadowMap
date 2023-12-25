@@ -3,6 +3,7 @@
 单独渲染物件到一张shadowmap，运行时采样该独立的shadowmap，独立shadowmap是好处就是可以做镜头特写，并且使用的阴影贴图分辨率可以很低。
 
 运行环境：URP7.7-2019.4.36。
+
 一、	自定义一个Lit.shader叫Custom_Lit_Shadow把相关代码改在里面，如Bench Bottom
 需要在renderFeature中添加渲染阴影的Feature即可
  ![image](https://github.com/yfn520/Unity_SpecifyObject_ShadowMap/assets/16619612/d00a99dd-3e06-4696-a4eb-44139a61e8c5)
