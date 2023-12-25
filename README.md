@@ -1,0 +1,1 @@
+![image](https://github.com/yfn520/Unity_SpecifyObject_ShadowMap/assets/16619612/92ecbf91-1fff-44dc-b7aa-7424bda644ff)![image](https://github.com/yfn520/Unity_SpecifyObject_ShadowMap/assets/16619612/cefeecfc-0aef-4972-9420-5abdcb91ad60)
